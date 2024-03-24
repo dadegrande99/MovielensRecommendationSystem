@@ -15,8 +15,8 @@ Is possible to read more details about the results obtained in the [Report(IT ve
 
 ## Contributors
 
-- [Davide Grandesso](mailto:d.grandesso@campus.unimib.it)
+- [Davide Grandesso](https://github.com/dadegrande99/)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE) file for details.
